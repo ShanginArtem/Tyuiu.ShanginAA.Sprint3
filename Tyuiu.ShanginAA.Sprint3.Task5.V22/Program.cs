@@ -12,7 +12,7 @@ namespace Tyuiu.ShanginAA.Sprint3.Task5.V22
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Использование операторов continue и break в циклах                *");
+            Console.WriteLine("* Тема: Вложенные циклы                                                   *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #22                                                             *");
             Console.WriteLine("* Выполнил: Шангин Артём Александрович | ИСПб-24-1                        *");

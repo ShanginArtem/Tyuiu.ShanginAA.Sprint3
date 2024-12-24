@@ -12,7 +12,7 @@ namespace Tyuiu.ShanginAA.Sprint3.Task6.V15
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Обработка целочисленной информации                                *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #15                                                             *");
             Console.WriteLine("* Выполнил: Шангин Артём Александрович | ИСПб-24-1                        *");
