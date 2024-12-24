@@ -13,7 +13,7 @@ namespace Tyuiu.ShanginAA.Sprint3.Task1.V20
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла while                                              *");
-            Console.WriteLine("* Задание #2                                                              *");
+            Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #20                                                             *");
             Console.WriteLine("* Выполнил: Шангин Артём Александрович | ИСПб-24-1                        *");
             Console.WriteLine("***************************************************************************");

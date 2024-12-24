@@ -6,7 +6,13 @@ namespace Tyuiu.ShanginAA.Sprint3.Task2.V23.Lib
     {
         public double GetSumSeries(double value, int startValue, int stopValue)
         {
-            
+            double SumSeries = 0;
+            do
+            {
+                SumSeries = SumSeries + (Math.Pow(value, startValue) + (0.25)) * Math.Sin(startValue);
+                startValue++;
+            } while (startValue <= stopValue);
+            return Math.Round(SumSeries, 3);
         }
     }
 }
